@@ -1,0 +1,40 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 12
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 6,
+        "Y": 2,
+        "ImageIndex": 10,
+        "ImagesCount": 2
+      },
+      "Ones": {
+        "X": 6,
+        "Y": 2,
+        "ImageIndex": 0,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 300,
+        "Y": 300,
+        "ImageIndex": 0,
+        "ImagesCount": 0
+      },
+      "Ones": {
+        "X": 300,
+        "Y": 300,
+        "ImageIndex": 0,
+        "ImagesCount": 0
+      }
+    },
+    "UnknownV11": 0
+  }
+}
